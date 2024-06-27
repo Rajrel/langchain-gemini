@@ -1,5 +1,5 @@
-.env
+*.env
 
-.ipynb_checkpoints
+*.ipynb_checkpoints
 
-.venv
+gelang/
